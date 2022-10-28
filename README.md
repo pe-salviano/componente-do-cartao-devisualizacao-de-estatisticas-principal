@@ -7,7 +7,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 
 <h1>➡<a href="https://pe-salviano.github.io/componente-do-cartao-devisualizacao-de-estatisticas-principal/" target="_blank"> 
-componente do cartão devisualização de estatisticas</a>⬅</h1>
+componente de devisualização de estatisticas</a>⬅</h1>
  
  
 
